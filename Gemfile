@@ -39,6 +39,7 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem 'sqlite3', '1.3.13'
+  gem 'mongoid', '~> 6.1.0'
 end
 
 group :development do
